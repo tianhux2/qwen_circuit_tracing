@@ -1,0 +1,6 @@
+[submodule "nnsight_v"]
+	path = nnsight_v
+	url = https://github.com/tianhux2/nnsight_v.git
+[submodule "dictionary_learning_v_t"]
+	path = dictionary_learning_v_t
+	url = https://github.com/tianhux2/dictionary_learning_v_t.git
